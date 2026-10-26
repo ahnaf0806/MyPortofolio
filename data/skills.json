@@ -1,4 +1,121 @@
 {
-  "categories": ["All", "Programming", "Design", "Tools", "Other"],
-  "skills": []
+  "categories": [
+    "All",
+    "Web Development",
+    "Backend",
+    "Mobile",
+    "Programming",
+    "Design",
+    "Tools"
+  ],
+  "skills": [
+    {
+      "id": "skill-01",
+      "name": "HTML",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "id": "skill-02",
+      "name": "CSS",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "id": "skill-03",
+      "name": "JavaScript",
+      "category": "Programming",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "id": "skill-04",
+      "name": "Tailwind CSS",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "id": "skill-05",
+      "name": "Bootstrap",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    },
+    {
+      "id": "skill-06",
+      "name": "React JS",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": "skill-07",
+      "name": "Next JS",
+      "category": "Web Development",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "id": "skill-08",
+      "name": "PHP",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    },
+    {
+      "id": "skill-09",
+      "name": "Laravel",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+    },
+    {
+      "id": "skill-10",
+      "name": "Node JS",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "id": "skill-11",
+      "name": "MySQL",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "id": "skill-12",
+      "name": "PostgreSQL",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "id": "skill-13",
+      "name": "Supabase",
+      "category": "Backend",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"
+    },
+    {
+      "id": "skill-14",
+      "name": "Flutter",
+      "category": "Mobile",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+    },
+    {
+      "id": "skill-15",
+      "name": "Python",
+      "category": "Programming",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    },
+    {
+      "id": "skill-16",
+      "name": "Figma",
+      "category": "Design",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    },
+    {
+      "id": "skill-17",
+      "name": "Git",
+      "category": "Tools",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    },
+    {
+      "id": "skill-18",
+      "name": "VS Code",
+      "category": "Tools",
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    }
+  ]
 }

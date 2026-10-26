@@ -112,12 +112,17 @@
         ? filtered
             .map(
               (skill) => `
-            <article class="archive-card skill-card">
+                        <article class="archive-card skill-card">
               <div class="archive-card-top">
-                <span class="archive-card-symbol">✳</span>
+                ${
+                  skill.logo
+                    ? `<img src="${escapeHTML(skill.logo)}" alt="${escapeHTML(skill.name || "Skill logo")}" class="archive-card-logo" loading="lazy">`
+                    : `<span class="archive-card-symbol">✳</span>`
+                }
                 <span class="archive-tag">${escapeHTML(skill.category || "Other")}</span>
               </div>
               <h3>${escapeHTML(skill.name || "Untitled skill")}</h3>
+            
               ${
                 skill.description
                   ? `<p>${escapeHTML(skill.description)}</p>`

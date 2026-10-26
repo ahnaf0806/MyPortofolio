@@ -246,7 +246,7 @@
 }
 
 .pp-project-content h3 {
-  margin: 13px 0 8px;
+  margin: 13px 0 13px;
   font-size: 15px;
   line-height: 1.5;
   overflow-wrap: anywhere;
@@ -260,8 +260,17 @@
 }
 
 .pp-project-links a {
+  display: inline-block;
   padding: 8px 10px;
-  color: #78adff;
+  background-color: #1c68db;
+  color: #ffffff;
+  border: 1px solid #1c68db;
+  transition: all 0.3 ease-in-out;
+}
+
+.pp-project-links a:hover {
+  background-color: transparent;
+  color: #1c68db;
 }
 
 .pp-empty {

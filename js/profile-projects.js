@@ -235,9 +235,11 @@
       results.innerHTML = filtered.length
         ? filtered
             .map((project) => {
-              const image = safeURL(project.image || "");
-              const demo = safeURL(project.demoUrl || "");
-              const source = safeURL(project.sourceUrl || "");
+              const image = project.image ? safeURL(project.image) : "";
+              const demo = project.demoUrl ? safeURL(project.demoUrl) : "";
+              const source = project.sourceUrl
+                ? safeURL(project.sourceUrl)
+                : "";
               const technologies = Array.isArray(project.technologies)
                 ? project.technologies
                 : [];

@@ -1,4 +1,20 @@
 {
   "categories": ["All", "Web", "Application", "Design", "Experiment", "Other"],
-  "projects": []
+  "projects": [
+    {
+      "title": "Nafora.Labs Portfolio",
+      "cateory": "Web",
+      "description": "Portofolio personal interaktif dengan konsep OS-like workspace. Dilengkapi dengan window manager, taskbar, dan animasi partikel kustom menggunakan Vanilla JavaScript.",
+      "image": "assets/images/portofolio.png",
+      "technologies": ["HTML5", "CSS3", "Vanilla JavaScript", "JSON"],
+      "demoUrl": "https://myportofolio-weld.vercel.app/"
+    },
+    {
+      "title": "Tolong.in",
+      "cateory": "Application",
+      "description": "Aplikasi yang ditujukan untuk mahasiswa yang ingin mencari project sebagai portofolio. Selain itu untuk owner project yang mencari freelancer. Aplikasi ini dilengkapi dengan fitur Chat realtime, Proposal project, dan juga Rating untuk project serta freelancer.",
+      "image": "assets/images/tolongin.png",
+      "technologies": ["Flutter", "Suppabase"]
+    }
+  ]
 }
