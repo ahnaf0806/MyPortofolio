@@ -1,11 +1,84 @@
 {
   "categories": [
     "All",
-    "Course",
-    "Competition",
-    "Training",
-    "Academic",
-    "Other"
+    "Bootcamp",
+    "Database",
+    "Digital Marketing",
+    "Intellectual Property",
+    "Events & Seminars"
   ],
-  "certificates": []
+  "certificates": [
+    {
+      "id": "cert-01",
+      "title": "Coding Camp 2026 Full-Stack Web Developer",
+      "issuer": "DBS Foundation",
+      "category": "Bootcamp",
+      "date": "Juli 2026",
+      "description": "Lulus program intensif Full-Stack Web Developer. Mengembangkan proyek capstone 'KopiMetric' dan terpilih dari 70.000 pelamar di seluruh Indonesia.",
+      "thumbnail": "assets/documents/dicoding.png"
+    },
+    {
+      "id": "cert-02",
+      "title": "Sertifikat Kompetensi Database Administrator (BNSP)",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP) & LSP UBSI",
+      "category": "Database",
+      "date": "Maret 2026",
+      "description": "Sertifikasi profesional BNSP untuk kualifikasi Database Administrator. Mencakup mendesain, membuat, mengelola basis data, serta menggunakan SQL. Berlaku selama 3 tahun.",
+      "thumbnail": "assets/documents/DBA.png"
+    },
+    {
+      "id": "cert-03",
+      "title": "Uji Kompetensi Berbasis Industri Bidang Basis Data",
+      "issuer": "UBSI x Sadasa Academy",
+      "category": "Database",
+      "date": "Juni 2025",
+      "description": "Uji kompetensi industri mencakup dasar-dasar database, tips pembuatan database, sharing pengalaman, dan praktik studi kasus nyata menggunakan MySQL.",
+      "thumbnail": "assets/documents/sadasa.png"
+    },
+    {
+      "id": "cert-04",
+      "title": "Pemasaran Digital Dengan Kecerdasan Buatan (AI) Untuk Wirausaha",
+      "issuer": "Digital Talent Scholarship 2025 (BPSDMP Komdigi)",
+      "category": "Digital Marketing",
+      "date": "Juni 2025",
+      "description": "Pelatihan 7 JP tentang pemanfaatan AI untuk riset pasar, pembuatan konten (teks/gambar/video), dan optimasi kampanye pemasaran digital.",
+      "thumbnail": "assets/documents/komdigi-1.png"
+    },
+    {
+      "id": "cert-05",
+      "title": "Menguasai Pemasaran di Era Digital: Seni Social Media Marketing",
+      "issuer": "Digital Talent Scholarship 2025 (Pusat Literasi Digital)",
+      "category": "Digital Marketing",
+      "date": "Mei 2025",
+      "description": "Micro Skill DTS 2025. Mempelajari statistik media sosial, pemahaman platform (Instagram, FB, TikTok), dan Social Media Planning.",
+      "thumbnail": "assets/documents/komdigi-2.png"
+    },
+    {
+      "id": "cert-06",
+      "title": "Surat Pencatatan Hak Cipta: Buku Inovasi Wisata Bayat Klaten",
+      "issuer": "Kementerian Hukum RI (Ditjen Kekayaan Intelektual)",
+      "category": "Intellectual Property",
+      "date": "Desember 2025",
+      "description": "Surat Pencatatan Ciptaan untuk buku berjudul 'Inovasi Wisata Berbasis Kearifan Lokal di Bayat Klaten yang Berpusat di Sunar Gamelan'.",
+      "thumbnail": "assets/documents/PISN.png"
+    },
+    {
+      "id": "cert-07",
+      "title": "Kunjungan Ilmiah BPSDMP Kominfo & GMEDIA",
+      "issuer": "Universitas Bina Sarana Informatika (UBSI)",
+      "category": "Events & Seminars",
+      "date": "Juli 2025",
+      "description": "Peserta kegiatan kunjungan industri ke BPSDMP Kominfo Yogyakarta dan PT Media Sarana Data (GMEDIA) untuk memperluas wawasan teknologi dan jaringan.",
+      "thumbnail": "assets/documents/KI.png"
+    },
+    {
+      "id": "cert-08",
+      "title": "Seminar Acceleration Of Information Technology For IT Career",
+      "issuer": "Universitas Bina Sarana Informatika (UBSI)",
+      "category": "Events & Seminars",
+      "date": "Januari 2025",
+      "description": "Peserta seminar teknologi informasi untuk persiapan karir IT bersama pembicara Widyo Ari Utomo, ST, MT.",
+      "thumbnail": "assets/documents/IT-carrier.png"
+    }
+  ]
 }
