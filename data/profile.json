@@ -1,9 +1,31 @@
 {
   "name": "Ahnaf Ogy Pratista",
-  "headline": "",
-  "location": "",
-  "bio": "",
-  "avatar": "",
-  "interests": [],
-  "socials": []
+  "headline": "Ideas in mind. Code on screen. Dreams in progress.",
+  "location": "Jawa Tengah, Indonesia",
+  "bio": "Saya adalah seorang developer yang tertarik pada dunia Web Development dan Mobile Development, dengan semangat untuk mengubah ide menjadi produk digital yang kreatif dan bermanfaat. Saya suka bereksperimen dengan teknologi, membangun proyek baru, dan mengeksplorasi berbagai cara untuk menciptakan website serta aplikasi yang menarik dan fungsional. Bagi saya, setiap baris kode adalah langkah kecil menuju sesuatu yang lebih besar. Saya terus belajar, mencoba hal baru, dan mengembangkan kemampuan untuk menciptakan karya yang punya nilai.Think creatively. Build differently. Keep evolving.",
+  "avatar": "assets/images/pp.png",
+  "interests": [
+    "Web Development",
+    "Mobile Development",
+    "Data Scientist",
+    "Databases Administrator"
+  ],
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ahnaf0806"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/8806_naff"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ahnaf-ogy-pratista/"
+    },
+    {
+      "label": "email",
+      "url": "mailto:ogypratista81@gmail.com"
+    }
+  ]
 }

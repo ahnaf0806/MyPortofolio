@@ -19,7 +19,7 @@
   function safeURL(value = "") {
     try {
       const url = new URL(value, window.location.href);
-      if (["http:", "https:"].includes(url.protocol)) {
+      if (["http:", "https:", "mailto:"].includes(url.protocol)) {
         return esc(url.href);
       }
     } catch {
